@@ -1,0 +1,5 @@
+[application]
+client_id: {Insert Client_id}
+client_secret: {Insert Client_Secret}
+username: {Insert CEC}
+password: {Insert Password}
